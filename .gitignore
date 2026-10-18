@@ -1,0 +1,17 @@
+# build output
+pysub
+pysub_debug
+*.o
+*.dSYM/
+build/
+
+# Visual Studio leftovers
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.recipe
+
+# macOS
+.DS_Store
